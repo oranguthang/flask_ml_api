@@ -1,4 +1,4 @@
-# flask-ml-api
+# flask_ml_api
 Example of API for working with pre-trained ML models
 
 # Installation and run
